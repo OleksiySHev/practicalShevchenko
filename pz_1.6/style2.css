@@ -131,7 +131,7 @@ body{
 }
 .footer{
     display: flex;
-    margin-top: 65px;
+    margin-top: 300px;
     background-color: black;
     text-align: center;
     color: gray;
@@ -146,4 +146,44 @@ body{
     
 }
 
-
+.head_menu{
+    font-size: 15px;
+    margin: 5px;
+}
+.info{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.observ_u_repos{
+    height: 0.05px;
+}
+.text{
+    color: grey;
+    font-size: 9px;
+    margin-left: 6px;
+}
+.command{
+    font-size: 10px;
+    margin-left: 6px;
+}
+.working_wth_brnch{
+    display: block;
+    text-align: start;
+    margin-left: 400px;
+    margin-top: -129px;
+}
+.make_a_chng{
+    display: block;
+    text-align: start;
+    margin-left: 800px;
+    margin-top: -398px;
+}
+.synch{
+    display: block;
+    margin-left: 1100px;
+    margin-top: -323px;
+}
+.finally{
+    display: block;
+    margin-left: 1100px;
+}
