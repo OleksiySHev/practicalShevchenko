@@ -1,0 +1,12 @@
+let i = 0
+do{
+   if(i==0){
+    console.log(i + " - це нуль");
+   }else if(i % 2==0){
+    console.log(i + " - це парне число");
+   }else if(i % 2==1){
+    console.log(i + " - це непарне число");
+   }
+    i++
+}while(i<=20);
+
